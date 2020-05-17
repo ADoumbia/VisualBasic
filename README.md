@@ -6,3 +6,5 @@ In this project, we look at complaint data from the City of Ottawa Municipal ByL
 VBA frees the user from the contraints of large data volume to explore new alternatives. In this project, we chose to allocate unknown wards according to the proportion of the known wards.
 
 There are many other ways to address the same problem but this solution allows us to explore the many functions of VBA. Finally, we take a look at User Defined Functions or UDFs which provides the user with even greater flexibility.
+
+To view the Macro, open the Developer Tab and select "Visual Basic". If you do not see this tab, right click the ribbon and select "Customize ribbon" and check "Developer".
